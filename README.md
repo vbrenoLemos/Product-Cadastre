@@ -6,7 +6,7 @@
 
 **-Java**
 
-**-MySql**
+**-MySQL**
 
 **-Maven**
 
